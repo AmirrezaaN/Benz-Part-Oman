@@ -1,0 +1,19 @@
+Copyright (c) 2026 Amirreza Nadimi. All rights reserved.
+
+This repository is made publicly visible for portfolio and code-review purposes only.
+
+You MAY:
+  - view and read the source code;
+  - clone or download it to evaluate the author's work;
+  - run it locally for that evaluation.
+
+You MAY NOT, without prior written permission from the copyright holder:
+  - copy, modify, merge, publish, distribute, sublicense or sell the code or any substantial part of it;
+  - deploy it, or a derivative of it, as a production website or service;
+  - reuse its design, branding ("Benz Part Oman" / «بنز پارت عمان»), texts or images.
+
+Third-party packages used by this project (Laravel, Tailwind CSS, Swiper, Chart.js, Font Awesome,
+Vazirmatn, etc.) remain under their own licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.

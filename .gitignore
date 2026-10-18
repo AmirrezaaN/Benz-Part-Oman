@@ -1,0 +1,38 @@
+# ---- Secrets & local configuration (never commit) ----
+.env
+.env.*
+!.env.example
+auth.json
+/storage/*.key
+
+# ---- Databases, dumps, archives ----
+*.sqlite
+*.sqlite-journal
+*.sql
+*.sql.gz
+*.zip
+*.bak
+
+# ---- Generated / installed ----
+/node_modules
+/vendor
+/public/build
+/public/hot
+/public/storage
+/storage/pail
+/.phpunit.cache
+.phpunit.result.cache
+
+# ---- Logs & OS / editor files ----
+*.log
+.DS_Store
+Thumbs.db
+/.claude
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+.phpactor.json
+Homestead.json
+Homestead.yaml

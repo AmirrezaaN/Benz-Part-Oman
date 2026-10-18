@@ -1,0 +1,62 @@
+<?php
+
+return [
+    'accepted' => 'لطفاً :attribute را بپذیرید.',
+    'array' => ':attribute باید آرایه باشد.',
+    'boolean' => ':attribute باید درست یا نادرست باشد.',
+    'confirmed' => 'تکرار :attribute مطابقت ندارد.',
+    'current_password' => 'رمز عبور فعلی صحیح نیست.',
+    'different' => ':attribute باید با :other متفاوت باشد.',
+    'digits' => ':attribute باید :digits رقم باشد.',
+    'digits_between' => ':attribute باید بین :min تا :max رقم باشد.',
+    'dimensions' => 'ابعاد :attribute مجاز نیست.',
+    'email' => ':attribute معتبر نیست.',
+    'exists' => ':attribute انتخاب‌شده معتبر نیست.',
+    'file' => ':attribute باید فایل باشد.',
+    'gte' => [
+        'numeric' => ':attribute باید بزرگ‌تر یا مساوی :value باشد.',
+    ],
+    'image' => ':attribute باید تصویر باشد.',
+    'in' => ':attribute انتخاب‌شده معتبر نیست.',
+    'integer' => ':attribute باید عدد صحیح باشد.',
+    'max' => [
+        'array' => ':attribute نباید بیشتر از :max مورد باشد.',
+        'file' => 'حجم :attribute نباید بیشتر از :max کیلوبایت باشد.',
+        'numeric' => ':attribute نباید بزرگ‌تر از :max باشد.',
+        'string' => ':attribute نباید بیشتر از :max کاراکتر باشد.',
+    ],
+    'mimes' => 'فرمت :attribute باید یکی از این‌ها باشد: :values.',
+    'min' => [
+        'array' => ':attribute باید حداقل :min مورد داشته باشد.',
+        'file' => 'حجم :attribute باید حداقل :min کیلوبایت باشد.',
+        'numeric' => ':attribute باید حداقل :min باشد.',
+        'string' => ':attribute باید حداقل :min کاراکتر باشد.',
+    ],
+    'not_in' => ':attribute انتخاب‌شده معتبر نیست.',
+    'numeric' => ':attribute باید عدد باشد.',
+    'password' => [
+        'letters' => ':attribute باید حداقل یک حرف داشته باشد.',
+        'mixed' => ':attribute باید شامل حروف بزرگ و کوچک باشد.',
+        'numbers' => ':attribute باید حداقل یک عدد داشته باشد.',
+        'symbols' => ':attribute باید حداقل یک نماد داشته باشد.',
+        'uncompromised' => ':attribute در نشت‌های اطلاعاتی دیده شده است؛ رمز دیگری انتخاب کنید.',
+    ],
+    'regex' => 'فرمت :attribute معتبر نیست.',
+    'required' => 'وارد کردن :attribute الزامی است.',
+    'size' => [
+        'string' => ':attribute باید :size کاراکتر باشد.',
+    ],
+    'string' => ':attribute باید متن باشد.',
+    'unique' => 'این :attribute قبلاً استفاده شده است.',
+    'uploaded' => 'بارگذاری :attribute ناموفق بود.',
+    'url' => 'آدرس :attribute معتبر نیست.',
+
+    'attributes' => [
+        'password' => 'رمز عبور',
+        'email' => 'ایمیل',
+        'phone' => 'موبایل',
+        'quantity' => 'تعداد',
+        'role_id' => 'نقش',
+        'ban_reason' => 'دلیل مسدودسازی',
+    ],
+];
